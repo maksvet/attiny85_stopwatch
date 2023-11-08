@@ -1,0 +1,16 @@
+# Compiled binary and hex files
+*.elf
+*.hex
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# Arduino-IDE specific
+.arduino15/
+/build/
+
+# Personal IDE settings
+/*.sublime-workspace
+/*.sublime-project

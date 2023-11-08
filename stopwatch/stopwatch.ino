@@ -1,4 +1,4 @@
-#include <TinyWireM.h> // Use TinyWireM for ATtiny85
+e#include <TinyWireM.h> // Use TinyWireM for ATtiny85
 #include <Tiny4kOLED.h>
 #include <font16x32digits.h> // This includes the font definition
 enum StopwatchState {
