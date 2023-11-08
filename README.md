@@ -23,6 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Install the required libraries through the Arduino Library Manager:
    - `TinyWireM`
    - `Tiny4kOLED`
+   - `TinyOLED-Fonts`
 
 2. Configure the Arduino IDE for ATtiny85 following [this setup guide](https://github.com/SpenceKonde/ATTinyCore/tree/v2.0.0-devThis-is-the-head-submit-PRs-against-this/avr/extras/ATtiny85_doc).
 
